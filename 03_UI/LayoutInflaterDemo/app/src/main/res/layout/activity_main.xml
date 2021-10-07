@@ -8,18 +8,19 @@
     tools:context=".MainActivity">
 
     <EditText
-        android:id="@+id/etTodo"
+        android:id="@+id/etTodoText"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:hint="Enter todo here"/>
+        android:hint="Enter todo here" />
 
     <Button
         android:id="@+id/btnSave"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Save todo"/>
+        android:text="Save" />
 
     <ScrollView
+        android:overScrollMode="always"
         android:layout_width="match_parent"
         android:layout_height="match_parent">
 
@@ -27,8 +28,6 @@
             android:id="@+id/layoutMain"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:orientation="vertical"/>
-
+            android:orientation="vertical" />
     </ScrollView>
-
 </LinearLayout>
