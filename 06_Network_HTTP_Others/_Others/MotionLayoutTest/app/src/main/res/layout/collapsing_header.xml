@@ -22,7 +22,7 @@
         android:layout_height="wrap_content"
         android:autoSizeTextType="uniform"
         android:gravity="center"
-        android:text="BME VIK"
+        android:text="BME Demo"
         android:textColor="#FFFFFF" />
 
     <ImageView
@@ -36,5 +36,5 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:srcCompat="@drawable/viklogo" />
+        app:srcCompat="@drawable/bme" />
 </hu.bme.aut.motionlayouttest.view.CollapsibleToolbar>

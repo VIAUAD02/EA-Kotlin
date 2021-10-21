@@ -2,8 +2,8 @@
 <MotionScene xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto">
     <Transition
-        app:constraintSetEnd="@+id/end"
         app:constraintSetStart="@+id/start"
+        app:constraintSetEnd="@+id/end"
         app:duration="3000">
 
         <!-- Either click or swipe -->
@@ -28,11 +28,22 @@
                 app:keyPositionType="parentRelative"
                 app:motionTarget="@id/imageView"
                 app:percentY="0.1" />
+            <KeyPosition
+                app:framePosition="85"
+                app:keyPositionType="parentRelative"
+                app:motionTarget="@id/imageView"
+                app:percentY="0.1"
+                app:percentX="0.5"/>
+            <KeyPosition
+                app:framePosition="95"
+                app:keyPositionType="parentRelative"
+                app:motionTarget="@id/imageView"
+                app:percentY="0.7"
+                app:percentX="0.2"/>
             <KeyAttribute
                 android:alpha="0.3"
                 app:framePosition="25"
                 app:motionTarget="@+id/imageView" />
-
             <KeyAttribute
                 android:scaleX="2.0"
                 app:framePosition="10"

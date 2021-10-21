@@ -11,7 +11,6 @@ class OutCallReceiver : BroadcastReceiver() {
         val outNumber = intent.getStringExtra(Intent.EXTRA_PHONE_NUMBER)
         Toast.makeText(context, outNumber, Toast.LENGTH_LONG).show()
 
-
-        this.resultData = "1001"
+        //this.resultData = "55566"
     }
 }

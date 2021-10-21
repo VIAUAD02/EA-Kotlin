@@ -1,0 +1,123 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/eklerpeter/Development/VC/MobWeb-Kotlin/06_Network_HTTP_Others/NFCTicTacToeAS/app/src/main/AndroidManifest.xml:2:1-41:12
+INJECTED from /Users/eklerpeter/Development/VC/MobWeb-Kotlin/06_Network_HTTP_Others/NFCTicTacToeAS/app/src/main/AndroidManifest.xml:2:1-41:12
+INJECTED from /Users/eklerpeter/Development/VC/MobWeb-Kotlin/06_Network_HTTP_Others/NFCTicTacToeAS/app/src/main/AndroidManifest.xml:2:1-41:12
+INJECTED from /Users/eklerpeter/Development/VC/MobWeb-Kotlin/06_Network_HTTP_Others/NFCTicTacToeAS/app/src/main/AndroidManifest.xml:2:1-41:12
+MERGED from [com.android.support:support-v4:27.1.1] /Users/eklerpeter/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/c33526d05e4c3bbe81acae6d0236d8f7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/eklerpeter/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/67c39d7f8d42b7959be9f1d6df03b12d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/eklerpeter/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/ea5b26dfbc50af4fe8925475d9b87794/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/eklerpeter/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/eb86527fccb128abee9257fa6bbc9511/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/eklerpeter/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/1cfb7a46c83f4c7f050b29da279956cb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/eklerpeter/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/96594306de8a0ae99bdfd163db7ab172/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/eklerpeter/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/28684e822ae4879f363aac0d4499b3f3/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/eklerpeter/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/b6bbb0482dd3a781f4a0e9e1e9a6d493/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/eklerpeter/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/dce4474f9a9334e0b840267a9a3579b1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/eklerpeter/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/2d62af307e881e006664072e760888a2/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/eklerpeter/Development/VC/MobWeb-Kotlin/06_Network_HTTP_Others/NFCTicTacToeAS/app/src/main/AndroidManifest.xml:2:1-41:12
+INJECTED from /Users/eklerpeter/Development/VC/MobWeb-Kotlin/06_Network_HTTP_Others/NFCTicTacToeAS/app/src/main/AndroidManifest.xml:2:1-41:12
+INJECTED from /Users/eklerpeter/Development/VC/MobWeb-Kotlin/06_Network_HTTP_Others/NFCTicTacToeAS/app/src/main/AndroidManifest.xml:2:1-41:12
+	package
+		ADDED from /Users/eklerpeter/Development/VC/MobWeb-Kotlin/06_Network_HTTP_Others/NFCTicTacToeAS/app/src/main/AndroidManifest.xml:3:5-48
+		INJECTED from /Users/eklerpeter/Development/VC/MobWeb-Kotlin/06_Network_HTTP_Others/NFCTicTacToeAS/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/eklerpeter/Development/VC/MobWeb-Kotlin/06_Network_HTTP_Others/NFCTicTacToeAS/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/eklerpeter/Development/VC/MobWeb-Kotlin/06_Network_HTTP_Others/NFCTicTacToeAS/app/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /Users/eklerpeter/Development/VC/MobWeb-Kotlin/06_Network_HTTP_Others/NFCTicTacToeAS/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/eklerpeter/Development/VC/MobWeb-Kotlin/06_Network_HTTP_Others/NFCTicTacToeAS/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/eklerpeter/Development/VC/MobWeb-Kotlin/06_Network_HTTP_Others/NFCTicTacToeAS/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /Users/eklerpeter/Development/VC/MobWeb-Kotlin/06_Network_HTTP_Others/NFCTicTacToeAS/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /Users/eklerpeter/Development/VC/MobWeb-Kotlin/06_Network_HTTP_Others/NFCTicTacToeAS/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/eklerpeter/Development/VC/MobWeb-Kotlin/06_Network_HTTP_Others/NFCTicTacToeAS/app/src/main/AndroidManifest.xml
+uses-sdk
+ADDED from /Users/eklerpeter/Development/VC/MobWeb-Kotlin/06_Network_HTTP_Others/NFCTicTacToeAS/app/src/main/AndroidManifest.xml:7:5-9:41
+INJECTED from /Users/eklerpeter/Development/VC/MobWeb-Kotlin/06_Network_HTTP_Others/NFCTicTacToeAS/app/src/main/AndroidManifest.xml:7:5-9:41
+INJECTED from /Users/eklerpeter/Development/VC/MobWeb-Kotlin/06_Network_HTTP_Others/NFCTicTacToeAS/app/src/main/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:27.1.1] /Users/eklerpeter/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/c33526d05e4c3bbe81acae6d0236d8f7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /Users/eklerpeter/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/c33526d05e4c3bbe81acae6d0236d8f7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/eklerpeter/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/67c39d7f8d42b7959be9f1d6df03b12d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/eklerpeter/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/67c39d7f8d42b7959be9f1d6df03b12d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/eklerpeter/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/ea5b26dfbc50af4fe8925475d9b87794/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/eklerpeter/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/ea5b26dfbc50af4fe8925475d9b87794/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/eklerpeter/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/eb86527fccb128abee9257fa6bbc9511/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/eklerpeter/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/eb86527fccb128abee9257fa6bbc9511/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/eklerpeter/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/1cfb7a46c83f4c7f050b29da279956cb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/eklerpeter/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/1cfb7a46c83f4c7f050b29da279956cb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/eklerpeter/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/96594306de8a0ae99bdfd163db7ab172/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/eklerpeter/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/96594306de8a0ae99bdfd163db7ab172/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/eklerpeter/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/28684e822ae4879f363aac0d4499b3f3/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/eklerpeter/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/28684e822ae4879f363aac0d4499b3f3/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/eklerpeter/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/b6bbb0482dd3a781f4a0e9e1e9a6d493/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/eklerpeter/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/b6bbb0482dd3a781f4a0e9e1e9a6d493/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/eklerpeter/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/dce4474f9a9334e0b840267a9a3579b1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/eklerpeter/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/dce4474f9a9334e0b840267a9a3579b1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/eklerpeter/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/2d62af307e881e006664072e760888a2/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/eklerpeter/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/2d62af307e881e006664072e760888a2/AndroidManifest.xml:20:5-44
+INJECTED from /Users/eklerpeter/Development/VC/MobWeb-Kotlin/06_Network_HTTP_Others/NFCTicTacToeAS/app/src/main/AndroidManifest.xml:7:5-9:41
+INJECTED from /Users/eklerpeter/Development/VC/MobWeb-Kotlin/06_Network_HTTP_Others/NFCTicTacToeAS/app/src/main/AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		ADDED from /Users/eklerpeter/Development/VC/MobWeb-Kotlin/06_Network_HTTP_Others/NFCTicTacToeAS/app/src/main/AndroidManifest.xml:9:9-38
+		INJECTED from /Users/eklerpeter/Development/VC/MobWeb-Kotlin/06_Network_HTTP_Others/NFCTicTacToeAS/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/eklerpeter/Development/VC/MobWeb-Kotlin/06_Network_HTTP_Others/NFCTicTacToeAS/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/eklerpeter/Development/VC/MobWeb-Kotlin/06_Network_HTTP_Others/NFCTicTacToeAS/app/src/main/AndroidManifest.xml:8:9-35
+		INJECTED from /Users/eklerpeter/Development/VC/MobWeb-Kotlin/06_Network_HTTP_Others/NFCTicTacToeAS/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/eklerpeter/Development/VC/MobWeb-Kotlin/06_Network_HTTP_Others/NFCTicTacToeAS/app/src/main/AndroidManifest.xml
+uses-feature#android.hardware.nfc
+ADDED from /Users/eklerpeter/Development/VC/MobWeb-Kotlin/06_Network_HTTP_Others/NFCTicTacToeAS/app/src/main/AndroidManifest.xml:11:5-81
+	android:required
+		ADDED from /Users/eklerpeter/Development/VC/MobWeb-Kotlin/06_Network_HTTP_Others/NFCTicTacToeAS/app/src/main/AndroidManifest.xml:11:55-78
+	android:name
+		ADDED from /Users/eklerpeter/Development/VC/MobWeb-Kotlin/06_Network_HTTP_Others/NFCTicTacToeAS/app/src/main/AndroidManifest.xml:11:19-54
+uses-permission#android.permission.NFC
+ADDED from /Users/eklerpeter/Development/VC/MobWeb-Kotlin/06_Network_HTTP_Others/NFCTicTacToeAS/app/src/main/AndroidManifest.xml:13:5-62
+	android:name
+		ADDED from /Users/eklerpeter/Development/VC/MobWeb-Kotlin/06_Network_HTTP_Others/NFCTicTacToeAS/app/src/main/AndroidManifest.xml:13:22-59
+application
+ADDED from /Users/eklerpeter/Development/VC/MobWeb-Kotlin/06_Network_HTTP_Others/NFCTicTacToeAS/app/src/main/AndroidManifest.xml:15:5-39:19
+	android:label
+		ADDED from /Users/eklerpeter/Development/VC/MobWeb-Kotlin/06_Network_HTTP_Others/NFCTicTacToeAS/app/src/main/AndroidManifest.xml:18:9-41
+	android:icon
+		ADDED from /Users/eklerpeter/Development/VC/MobWeb-Kotlin/06_Network_HTTP_Others/NFCTicTacToeAS/app/src/main/AndroidManifest.xml:17:9-45
+	android:allowBackup
+		ADDED from /Users/eklerpeter/Development/VC/MobWeb-Kotlin/06_Network_HTTP_Others/NFCTicTacToeAS/app/src/main/AndroidManifest.xml:16:9-35
+	android:theme
+		ADDED from /Users/eklerpeter/Development/VC/MobWeb-Kotlin/06_Network_HTTP_Others/NFCTicTacToeAS/app/src/main/AndroidManifest.xml:19:9-40
+activity#hu.bme.aut.amorg.examples.nfctest.MainActivity
+ADDED from /Users/eklerpeter/Development/VC/MobWeb-Kotlin/06_Network_HTTP_Others/NFCTicTacToeAS/app/src/main/AndroidManifest.xml:20:9-37:20
+	android:screenOrientation
+		ADDED from /Users/eklerpeter/Development/VC/MobWeb-Kotlin/06_Network_HTTP_Others/NFCTicTacToeAS/app/src/main/AndroidManifest.xml:23:13-49
+	android:label
+		ADDED from /Users/eklerpeter/Development/VC/MobWeb-Kotlin/06_Network_HTTP_Others/NFCTicTacToeAS/app/src/main/AndroidManifest.xml:22:13-45
+	android:name
+		ADDED from /Users/eklerpeter/Development/VC/MobWeb-Kotlin/06_Network_HTTP_Others/NFCTicTacToeAS/app/src/main/AndroidManifest.xml:21:13-74
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/eklerpeter/Development/VC/MobWeb-Kotlin/06_Network_HTTP_Others/NFCTicTacToeAS/app/src/main/AndroidManifest.xml:24:13-28:29
+action#android.intent.action.MAIN
+ADDED from /Users/eklerpeter/Development/VC/MobWeb-Kotlin/06_Network_HTTP_Others/NFCTicTacToeAS/app/src/main/AndroidManifest.xml:25:17-69
+	android:name
+		ADDED from /Users/eklerpeter/Development/VC/MobWeb-Kotlin/06_Network_HTTP_Others/NFCTicTacToeAS/app/src/main/AndroidManifest.xml:25:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/eklerpeter/Development/VC/MobWeb-Kotlin/06_Network_HTTP_Others/NFCTicTacToeAS/app/src/main/AndroidManifest.xml:27:17-77
+	android:name
+		ADDED from /Users/eklerpeter/Development/VC/MobWeb-Kotlin/06_Network_HTTP_Others/NFCTicTacToeAS/app/src/main/AndroidManifest.xml:27:27-74
+intent-filter#action:name:android.nfc.action.NDEF_DISCOVERED+category:name:android.intent.category.DEFAULT+data:host:ext+data:pathPrefix:/com.example:externalType+data:scheme:vnd.android.nfc
+ADDED from /Users/eklerpeter/Development/VC/MobWeb-Kotlin/06_Network_HTTP_Others/NFCTicTacToeAS/app/src/main/AndroidManifest.xml:29:13-36:29
+action#android.nfc.action.NDEF_DISCOVERED
+ADDED from /Users/eklerpeter/Development/VC/MobWeb-Kotlin/06_Network_HTTP_Others/NFCTicTacToeAS/app/src/main/AndroidManifest.xml:30:17-77
+	android:name
+		ADDED from /Users/eklerpeter/Development/VC/MobWeb-Kotlin/06_Network_HTTP_Others/NFCTicTacToeAS/app/src/main/AndroidManifest.xml:30:25-74
+category#android.intent.category.DEFAULT
+ADDED from /Users/eklerpeter/Development/VC/MobWeb-Kotlin/06_Network_HTTP_Others/NFCTicTacToeAS/app/src/main/AndroidManifest.xml:31:17-76
+	android:name
+		ADDED from /Users/eklerpeter/Development/VC/MobWeb-Kotlin/06_Network_HTTP_Others/NFCTicTacToeAS/app/src/main/AndroidManifest.xml:31:27-73
+data
+ADDED from /Users/eklerpeter/Development/VC/MobWeb-Kotlin/06_Network_HTTP_Others/NFCTicTacToeAS/app/src/main/AndroidManifest.xml:32:17-35:56
+	android:host
+		ADDED from /Users/eklerpeter/Development/VC/MobWeb-Kotlin/06_Network_HTTP_Others/NFCTicTacToeAS/app/src/main/AndroidManifest.xml:33:21-39
+	android:scheme
+		ADDED from /Users/eklerpeter/Development/VC/MobWeb-Kotlin/06_Network_HTTP_Others/NFCTicTacToeAS/app/src/main/AndroidManifest.xml:35:21-53
+	android:pathPrefix
+		ADDED from /Users/eklerpeter/Development/VC/MobWeb-Kotlin/06_Network_HTTP_Others/NFCTicTacToeAS/app/src/main/AndroidManifest.xml:34:21-67
