@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ShoppingListRecyclerViewDemo</string>
+
+    <string-array name="category_array">
+        <item>Food</item>
+        <item>Clothes</item>
+        <item>Sport</item>
+    </string-array>
+
+
+</resources>
