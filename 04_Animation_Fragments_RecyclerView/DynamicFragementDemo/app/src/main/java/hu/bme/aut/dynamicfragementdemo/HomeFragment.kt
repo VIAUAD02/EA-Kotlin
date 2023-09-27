@@ -24,9 +24,11 @@ class HomeFragment: Fragment() {
 
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
         super.onViewCreated(view, savedInstanceState)
+
+
         binding.detailsButton.setOnClickListener{
-            val mainActivity=activity as MainActivity
-            mainActivity.showDetails(binding.nameEditText.text.toString())
+
+            (activity as MainActivity).showDetails(binding.nameEditText.text.toString())
         }
     }
 

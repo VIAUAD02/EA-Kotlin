@@ -28,7 +28,7 @@ class MainActivity : AppCompatActivity() {
 
         val ft=supportFragmentManager.beginTransaction()
 
-        ft.add(R.id.fragmentContainer,detailsFragment,DetailFragment.TAG)
+        ft.replace(R.id.fragmentContainer,detailsFragment,DetailFragment.TAG)
 
         ft.addToBackStack(DetailFragment.TAG)
         ft.commit()
