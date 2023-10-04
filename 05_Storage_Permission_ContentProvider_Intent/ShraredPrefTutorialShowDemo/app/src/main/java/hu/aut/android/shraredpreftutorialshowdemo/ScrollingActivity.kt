@@ -39,8 +39,10 @@ class ScrollingActivity : AppCompatActivity() {
     fun saveLastStartTime() {
         val sp = PreferenceManager.getDefaultSharedPreferences(this)
         val editor: SharedPreferences.Editor = sp.edit()
-        editor.putString("KEY_LAST_START", Date(System.currentTimeMillis()).toString())
-        editor.putBoolean("KEY_STARTED", true)
+        editor.putString("KEY_LAST_START",
+            Date(System.currentTimeMillis()).toString())
+        editor.putBoolean("KEY_STARTED",
+            true)
         editor.apply()
     }
 
