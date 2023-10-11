@@ -1,4 +1,0 @@
-#Tue Oct 19 15:21:38 CEST 2021
-base.0=/Users/eklerpeter/Development/VC/MobWeb-Kotlin/06_Network_HTTP_Others/NFCTicTacToeAS/app/build/intermediates/transforms/dexMerger/debug/0
-path.0=classes.dex
-renamed.0=classes.dex

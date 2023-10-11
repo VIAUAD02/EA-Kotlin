@@ -1,7 +1,0 @@
-#Internal package file, do not edit.
-#Tue Oct 19 15:21:38 CEST 2021
-0.baseType=DIRECTORY
-0.base=/Users/eklerpeter/Development/VC/MobWeb-Kotlin/06_Network_HTTP_Others/NFCTicTacToeAS/app/build/intermediates/transforms/dexMerger/debug/0
-0.path=classes.dex
-0.set=DEX
-count=1
