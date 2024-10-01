@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TodoDemo</string>
+    <string name="icon_edit">Edit</string>
+</resources>
