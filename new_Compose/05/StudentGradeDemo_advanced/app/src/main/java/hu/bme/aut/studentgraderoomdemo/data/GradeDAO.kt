@@ -23,7 +23,7 @@ interface GradeDAO {
     fun getGradeById(gradeId: Int): Flow<Grade>
 
     @Query("SELECT * from grades ORDER BY studentName ASC")
-    fun getAllGradesOrderByName(): Flow<List<Grade>>
+//    fun getAllGradesOrderByName(): Flow<List<Grade>>
 
     @Insert(onConflict = OnConflictStrategy.IGNORE)
     suspend fun insertGrade(grade: Grade)
